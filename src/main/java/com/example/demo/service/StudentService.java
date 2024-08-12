@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.example.demo.model.Course;
 import com.example.demo.model.Student;
-
+//this is for branch
 public interface StudentService {
 	public String insert(Student ss);
 	public List<Student>getall();
